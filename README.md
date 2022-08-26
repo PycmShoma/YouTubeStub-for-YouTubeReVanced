@@ -22,3 +22,4 @@ This module has two packages.
 
 ## For test and clarity, this overlay contains yt_wordmark_header
 
+![](https://github.com/PycmShoma/YouTubeStub_for_YouTubeReVanced/blob/main/assets/youtube_premium.png)
