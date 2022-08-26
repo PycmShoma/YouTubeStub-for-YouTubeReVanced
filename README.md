@@ -17,7 +17,6 @@ This module has two packages.
  For more advanced
  - Layouts
  - Styles
- In general, as usual in the case of overlays.
 
 ## About overlays in Google's documentationHttps: //source.android...cture/rros#static-rros
 
