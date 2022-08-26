@@ -13,6 +13,7 @@ This module has two packages.
  - Drawables
  - Integers
  - Strings
+
  For more advanced
  - Layouts
  - Styles
