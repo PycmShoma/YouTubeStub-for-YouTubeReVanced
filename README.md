@@ -18,7 +18,7 @@ This module has two packages.
  - Layouts
  - Styles
 
-## About overlays in Google's documentation https://source.android...cture/rros#static-rros
+## About overlays in Google's documentation https://source.android.com/docs/core/architecture/rros
 
 ## For test and clarity, this overlay contains yt_wordmark_header
 
