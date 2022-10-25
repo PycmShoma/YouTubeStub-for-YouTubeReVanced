@@ -1,0 +1,5 @@
+- Updated installation script
+- Updated description
+- Updated module.prop
+- Updated color resources
+- Added Russian local resources
